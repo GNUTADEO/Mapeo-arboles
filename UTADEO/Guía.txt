@@ -1,5 +1,27 @@
-En este archivo se decribe lo que se ha hecho en latadeo y la documentación
+En este archivo se describe lo que se ha hecho en la Tadeo y la documentación
 
 Vamos a probar 3 métodos para determinar posición del árbol.
 
-Vamos a probar 2 métodos para deterimnar la altura del árbol.
+Determinar altura árbol
+Se utilizaron dos métodos, explicados a continuación:
+1. MÉTODO REGLA
+	- Desde la base del árbol, se estableció una altura de 1.30m, la cual
+	se demarcó con una cita métrica.
+	- Desde una distancia en la que pueda ver toda la altura del árbol, 
+	se utilizó una regla para medir la altura de este desde la base 
+	hasta la copa.
+	- Por medio del concepto de Triángulos Semejantes, se calcula el 
+	valor real de la altura del individuo.  
+
+	
+2. MÉTODO TRANSPORTADOR
+	- Se utiliza un transportador al cual se le amarra en el punto medio 
+	una cuerda a la cual se le agrega un borrador para hacer peso. 
+	- Se utiliza esta herramienta para calcular el ángulo del espectador 
+	desde el punto mas bajo del árbol hasta la copa.
+	- Se mide la distancia entre la base del árbol y el espectador para 
+	poder calcular la altura por medio de las Razones Trigonométricas 
+	como Tan (alpha) 
+
+Teniendo en cuenta los resultados de estos métodos, se realiza un promedio 
+aritmético.Y se registra la altura.
