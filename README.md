@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Mapeo-arboles
 
 Aquí se presenta la guía de mapeo para árboles
@@ -27,6 +26,3 @@ Aquí se presenta la guía de mapeo para árboles
 # Tags adicionales
 
 
-=======
-# Mapeo-arboles
->>>>>>> bb623269bcb8386fdb53f41aae48d1c74506c4b0
