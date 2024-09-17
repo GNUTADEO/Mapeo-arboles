@@ -9,20 +9,6 @@ Aquí se presenta la guía de mapeo para árboles
 
 # Crear traza en StreetComplete
 
-# Altura del árbol
-
-## Usando regla 
-
-## Usando transportador 
-
-# Diámetros
-
-## Tronco del árbol
-
-## Copa del árbol
-
-# Tags adicionales
-
-# Tags adicionales
+[Link](https://www.fao.org/4/ae578s/AE578S06.htm#P3139_128162)
 
 
